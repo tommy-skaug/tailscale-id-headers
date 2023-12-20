@@ -6,7 +6,7 @@ on:
 
 env:
   # renovate: depName=github.com/tommy-skaug/tailscale-id-headers
-  TIDH_VERSION: "v1.1"
+  TIDH_VERSION: "v1.1.1"
 
 jobs:
   push_to_registry:
