@@ -8,7 +8,7 @@ This repository is modified from the companion git repo to Tailscale blog post "
 
 ## Deploying to Kubernetes
 
-The container can be deployed to Kubernetes and used with the Tailscale Operator like this:
+The container can be deployed as an [app-template](https://github.com/bjw-s/helm-charts) to Kubernetes and be used with the Tailscale Operator like this:
 
 ```
 ---
